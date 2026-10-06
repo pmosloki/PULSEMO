@@ -1,0 +1,22 @@
+Release Notes
+*********************************************************************************************
+*********************************************************************************************
+
+Customer : Pulsemo
+Board    : 24 pin VCU
+Date     : 05/10/2026
+
+PBL version  : VCU_BSW_PBL.hex
+SBL version  : VCU_BSW_SBL.hex
+SDK version  : 24PIN_VCU_SDK_V1_0
+LIB version  : 24PIN_VCU_LIB_V3_0
+Tool version : Sloki_ECU_Flasher_v_2.1.8
+
+Description:
+1.Sloki ECU Flasher has been provided with required template.
+2.Software changes have been implemented to ensure compatibility with the Sloki ECU Flasher.
+
+**********************************************************************************************
+
+
+
